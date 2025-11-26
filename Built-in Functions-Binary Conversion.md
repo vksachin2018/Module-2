@@ -11,8 +11,8 @@ To write a Python program to convert the number **16** into its **binary represe
 ## 🧾 Program
 
 ```
-Developed by: Shrikrishna V
-Register.no:212223040198
+Developed by: Gokul sachin k
+Register.no:212223220025
 
 x=76
 y=bin(x)
